@@ -8,5 +8,5 @@ This repo aims to reproduce a behavior which is not working as expected when usi
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm dev`
-4. Go to path `/main/view``
+4. Go to path `/main/view`
 5. Click on the button to `toggle theme`
